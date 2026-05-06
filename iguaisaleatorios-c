@@ -16,7 +16,7 @@ int main(){
     if(num1 - num2 == 0){
         printf("o numero igual e: %d\n", num1);
         printf("numero de tentativas: %d\n", counter);
-    }else{
+    } else{
         printf("algo deu errado, os numeros nao sao iguais\n");
     }
 
